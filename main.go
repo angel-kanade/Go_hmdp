@@ -1,8 +1,8 @@
 package main
 
 import (
+	"Go_hmdp/commons/logger"
 	"Go_hmdp/config"
-	"Go_hmdp/pkg/logger"
 	"fmt"
 	"github.com/spf13/pflag"
 	"log/slog"

@@ -1,7 +1,7 @@
 package config
 
 import (
-	"Go_hmdp/pkg/logger"
+	"Go_hmdp/commons/logger"
 	"fmt"
 	"github.com/fsnotify/fsnotify"
 	"github.com/spf13/viper"
